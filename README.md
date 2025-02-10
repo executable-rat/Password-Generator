@@ -29,13 +29,13 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-username/password-generator.git
+git clone https://github.com/executable-rat/Password-Generator.git
 cd password-generator
 ```
 ## 🚀 Запуск приложения
 Выполните команду:
 ```bash
-python password_generator.py
+python main.py
 ```
 
 ## 🎮 Использование
